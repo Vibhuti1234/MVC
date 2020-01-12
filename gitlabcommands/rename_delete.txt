@@ -1,0 +1,23 @@
+M1056225@G1C2ML34813 MINGW64 /d/flipkartshoppingapplication (master)
+$ touch papa.txt
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartshoppingapplication (master)
+$ ls
+HELP.md  mvnw*  mvnw.cmd  papa.txt  pom.xml  src/  target/
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartshoppingapplication (master)
+$ mv papa.txt appa.txt
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartshoppingapplication (master)
+$ ls
+appa.txt  HELP.md  mvnw*  mvnw.cmd  pom.xml  src/  target/
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartshoppingapplication (master)
+$ rm appa.txt
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartshoppingapplication (master)
+$ ls
+HELP.md  mvnw*  mvnw.cmd  pom.xml  src/  target/
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartshoppingapplication (master)
+$

@@ -1,0 +1,20 @@
+M1056225@G1C2ML34813 MINGW64 /d/flipkartapplication (master)
+$ git branch
+* master
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartapplication (master)
+$ git branch appa
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartapplication (master)
+$ git branch
+  appa
+* master
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartapplication (master)
+$ git checkout appa
+Switched to branch 'appa'
+
+M1056225@G1C2ML34813 MINGW64 /d/flipkartapplication (appa)
+$ git branch
+* appa
+  master
